@@ -13,6 +13,8 @@
 #bloc_page
 {
     overflow: auto;
+	margin-right = 30px;
+	margin-left = 30px;
 }
 .photo  
 {
@@ -23,11 +25,15 @@ box-shadow: 6px 6px 3px burlywood;
 
 .sidebar {
     float: left;
-    width: 10%;
-    height: 340px;
+    width: 8%;
+	height: 700px;
     background-color: burlywood ;
     display: inline-block;
     border-radius: 10px;
+}
+#corps-cv
+{
+		margin-right = 10 px;
 }
 
 body
@@ -51,6 +57,7 @@ header
 {
     text-align: center;
     margin-bottom: 25px;
+	margin-top: 10px;
 }
 section
 {
